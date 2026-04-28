@@ -1,4 +1,4 @@
-# 📊 Анализ удержания клиентов и гипотезы роста для маркетплейса (проект по e‑commerce)
+# 📊 Анализ удержания клиентов и постановка гипотез роста для маркетплейса (проект по e‑commerce)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-1.3+-green.svg)](https://pandas.pydata.org/)
